@@ -29,6 +29,7 @@ a {
 .slick-prev:before,
 .slick-next:before {
 	color: red;
+	display: none;
 }
 .slick-dots {
 	bottom: -50px;
@@ -39,4 +40,13 @@ a {
 .slick-dots li.slick-active button:before {
 	color: red;
 	font-size: 15px;
+}
+
+.slick-dots li div {
+	width: 30px;
+	border: 1px solid red;
+	border-right: none;
+}
+.slick-dots li:last-child div {
+	border-right: 1px solid red;
 }
