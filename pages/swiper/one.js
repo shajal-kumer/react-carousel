@@ -11,7 +11,7 @@ export default function One() {
 		<div className="container ">
 			<div className="row">
 				<div className="col my-app">
-					<Swiper pagination effect={"cards"}>
+					<Swiper className="my-swiper-one" pagination={{ clickable: true }} effect={"cards"}>
 						<SwiperSlide>Slide 1</SwiperSlide>
 						<SwiperSlide>Slide 2</SwiperSlide>
 						<SwiperSlide>Slide 3</SwiperSlide>

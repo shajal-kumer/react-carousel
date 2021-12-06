@@ -11,6 +11,9 @@
 	/* width: 70%; */
 	height: 320px;
 }
+.swiper.my-swiper-one {
+	width: 70%;
+}
 
 .swiper-wrapper {
 	width: 70%;
