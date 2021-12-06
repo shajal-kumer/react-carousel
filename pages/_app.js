@@ -7,6 +7,7 @@ import "swiper/css/effect-cards";
 import "swiper/css/effect-flip";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import "swiper/css/thumbs";
 import "../styles/globals.css";
 import "../styles/swiper-style-one.css";
 function MyApp({ Component, pageProps }) {

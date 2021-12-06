@@ -33,6 +33,7 @@ export default function Two() {
 			<div className="row">
 				<div className="col">
 					<div className="my-slider">
+						<h2>Swiper slider two</h2>
 						<style jsx>{`
 							p {
 								fontsize: "14px";

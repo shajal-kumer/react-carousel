@@ -4,19 +4,33 @@ This repo is the part of my frot-end development journey. In modern web app we c
 
 ## Demo
 
-Insert gif or link to demo
+https://react-carousel-xi.vercel.app/
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+-   slick slider initialization
+
+-   slick slider pagination customization
+
+-   slick slider navigation customization
+
+-   swiper slider initialization
+
+-   swiper slider pagination customization
+
+-   swiper slider navigation customization
+
+-   swiper slider effect
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Swiper one Screenshot](one.png)
+
+![React one Screenshot](two.png)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, GSAP
+**Client:** HTML, CSS, Javascript, React, Next.js
 
 ## 🚀 About Me
 
@@ -30,6 +44,6 @@ I'm a front-end developer with backend knowledge.
 
 ## Acknowledgements
 
--   [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
--   [Awesome README](https://github.com/matiassingers/awesome-readme)
--   [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+-   [Swiperjs with React | Modern Touch Slider](https://www.youtube.com/watch?v=GmUo4PqXKzk&t)
+
+-   [2020 Tutorial for Official SwiperJs React Version ](https://www.youtube.com/watch?v=l4kFO6VQPfA)
