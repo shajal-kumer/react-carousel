@@ -1,10 +1,9 @@
-import "boxicons";
 import Slider from "react-slick";
 function SampleNextArrow(props) {
 	const { className, style, onClick } = props;
 	return (
 		<div className={className} style={{ ...style }} onClick={onClick}>
-			<box-icon name="right-arrow-alt"></box-icon>
+			<i className="ri-arrow-right-line"></i>
 		</div>
 	);
 }
@@ -13,8 +12,7 @@ function SamplePrevArrow(props) {
 	const { className, style, onClick } = props;
 	return (
 		<div className={className} style={{ ...style }} onClick={onClick}>
-			{" "}
-			<box-icon name="left-arrow-alt"></box-icon>
+			<i className="ri-arrow-left-line"></i>
 		</div>
 	);
 }

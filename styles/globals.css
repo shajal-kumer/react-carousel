@@ -25,12 +25,25 @@ a {
 	color: red;
 	border: 1px solid red;
 }
-
-.slick-prev:before,
-.slick-next:before {
-	color: red;
-	display: none;
+.slick-prev {
+	left: -60px;
 }
+
+.slick-next {
+	right: -20px;
+}
+.slick-prev,
+.slick-next {
+	font-size: 25px;
+	color: red;
+}
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+	color: inherit;
+}
+
 .slick-dots {
 	bottom: -50px;
 }

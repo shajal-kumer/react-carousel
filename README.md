@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+This repo is the part of my frot-end development journey. In modern web app we can see there are using so many image/video carousel. So i practice carousel slide using slick carousel and swiper slider. Swiper the most modern mobile touch slider which is really awesome and slick is also powerfull.
 
 ## Demo
 
